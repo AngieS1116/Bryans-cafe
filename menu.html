@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Menu - Bryan's Café</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <div class="nav-container">
+            <div class="logo"><a href="about.html">Bryan's Café</a></div>
+            <nav>
+                <ul>
+                    <li><a href="about.html">About</a></li>
+                    <li><a href="menu.html" class="active">Menu</a></li>
+                    <li><a href="contact.html">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <div class="menu-header">
+            <h1>Our Menu</h1>
+            <p>Explore our wide range of delicious meals and beverages.</p>
+        </div>
+        <section class="section-padding container">
+            <div id="menu-container">
+                <!-- Menu categories and items will be loaded dynamically here via XML -->
+            </div>
+        </section>
+    </main>
+
+    <footer>
+        <p>&copy;<span id="current-year"></span> Bryan's Café. All rights reserved.</p>
+        <div class="footer-nav">
+            <a href="privacy-policy.html" target="_blank">Privacy Policy</a>
+        </div>
+    </footer>
+
+    <script src="js/main.js"></script>
+</body>
+</html>

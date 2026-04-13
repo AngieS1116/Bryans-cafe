@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE menu SYSTEM "menu.dtd">
+<menu>
+    <category name="Meals">
+        <item>
+            <name>Beetroot and feta salad</name>
+            <price>15.00</price>
+            <description>Suitable for vegetarians, made with fresh beetroot.</description>
+            <image>images/beetroot_salad.png</image>
+        </item>
+        <item>
+            <name>Sourdough Rye Samdwich</name>
+            <price>18.00</price>
+            <description>Cheese and salad sandwich made with organic, sourdough rye bread</description>
+            <image>images/sourdough_sandwich.png</image>
+        </item>
+        <item>
+            <name>Spinach Pie and Salad</name>
+            <price>20.00</price>
+            <description>Tasty pie with salad</description>
+            <image>images/spinach_pie.png</image>
+        </item>
+        <item>
+            <name>Feta pancakes with salad</name>
+            <price>19.50</price>
+            <description>Tasty pancake filled with feta and salad</description>
+            <image>images/Pancakes.webp</image>
+        </item>
+        <item>
+            <name>Avocado Toast with Poached Eggs</name>
+            <price>20.00</price>
+            <description>Toasted bread topped with fresh avocado, poached eggs, and a touch of lemon and seeds.</description>
+            <image>images/Avocado.webp</image>
+        </item>
+        <item>
+            <name>Smoked Salmon Bagel</name>
+            <price>22.00</price>
+            <description>Bagel filled with smoked salmon, cream cheese, and fresh arugula.</description>
+            <image>images/salmon.jpg</image>
+        </item>
+    </category>
+    <category name="Coffee and hot chocolates">
+        <item>
+            <name>Small</name>
+            <price>3.50</price>
+            <description>For coffee, please inform the staff the coffee type</description>
+            <image>images/Coffee.jpg</image>
+        </item>
+        <item>
+            <name>Regular</name>
+            <price>4.00</price>
+            <description>For coffee, please inform the staff the coffee type</description>
+            <image>images/coffee 2.jpg</image>
+        </item>
+        <item>
+            <name>Large</name>
+            <price>4.50</price>
+            <description>For coffee, please inform the staff the coffee type</description>
+            <image>images/coffee 3.avif</image>
+        </item>
+    </category>
+    <category name="Other beverages">
+        <item>
+            <name>Soda</name>
+            <price>3.00</price>
+            <description></description>
+            <image>images/soda.jpg</image>
+        </item>
+        <item>
+            <name>Fresh juice</name>
+            <price>6.00</price>
+            <description></description>
+            <image>images/juice.jpg</image>
+                </item>
+        <item>
+            <name>Bottle water</name>
+            <price>2.00</price>
+            <description></description>
+            <image>images/water.jpg</image>
+        </item>
+    </category>
+</menu>
